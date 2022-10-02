@@ -1,0 +1,21 @@
+a:link{
+color:blue; text-decoration: none;
+}
+a:hover{
+color:blueviolet; text-decoration: underline;
+}
+a:active{
+cursor: wait;
+}
+.para0.1{
+text-align: center;
+}
+.title_bar{
+border-style:outset; text-align:center; border-radius: 8px; padding:5px; background-color:lightgray;
+}
+h1.title_bar:hover{
+background-color:grey; color:lightgrey;
+}
+h1.title_bar:link{
+background-color:grey; color:lightgrey; text-decoration: none;
+}
